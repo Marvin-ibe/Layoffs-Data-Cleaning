@@ -10,5 +10,5 @@ This project focuses on cleaning the World Layoffs dataset using SQL.
 - `Layoffs_raw.csv` → Original raw dataset
 ## Tools Used
 - MySQL
-## Credit
-This project is based on the Data Cleaning tutorial by **Alex The Analyst**.
+## Note
+This project was inspired by my common data cleaning practices used in real world datasets.
